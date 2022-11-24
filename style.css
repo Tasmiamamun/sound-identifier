@@ -1,0 +1,39 @@
+.header_div{
+    font-size: 25px;
+    background-color: bisque;
+    padding: 10px;
+}
+
+#heading{
+    font-size: 30px;
+    color: rgb(235, 25, 25);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#start_button{
+    margin-top: 20px;
+}
+
+#result_label,#result_accuracy{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+
+body{
+    background-color: rgb(222, 116, 164);
+}
+
+
+
+#footer{
+    position: fixed;
+    color: aquamarine;
+    bottom:0;
+    width: 100%;
+    font-size:18px;
+    background-color: beige;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
